@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHY0bDBxZ2h0dzBtMjJ6NjUyc3VraGhmNzBhbGFubnZyYjhjeTl5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfkZTclxdRgDCLAI0q/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/bDdjT6W7oqxNdJzTEj/giphy.gif"  />
 </div>
 
 ###
@@ -84,6 +84,10 @@
 
 ###
 
+<h2 align="left">Follow me ✔</h2>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -91,6 +95,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 </div>
+
+###
+
+<h2 align="left">⭐  My Repository</h2>
 
 ###
 
